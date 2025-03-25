@@ -1,3 +1,11 @@
+# HEADS UP
+This bot does function and is being worked on as you read this to this day. for now functional commands are
+
+!receipt store product price [quantity] [shipping] [payment]
+
+example usage below
+!receipt amazon "Apple AirPods Pro" 249.99
+and !help and others work but are useless for now. Thw receipts are not end result and I will improve this so watch out for updates on thus github!
 
 # Enhanced Receipt Generator Bot
 
