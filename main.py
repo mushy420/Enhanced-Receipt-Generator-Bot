@@ -73,4 +73,3 @@ async def list_styles(ctx):
 setup_error_handler(bot)
 
 bot.run(TOKEN)
-
