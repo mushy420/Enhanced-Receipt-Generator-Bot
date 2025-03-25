@@ -8,6 +8,8 @@ example usage below
 !receipt amazon "Apple AirPods Pro" 249.99
 and !help and others work but are useless for now. Thw receipts are not end result and I will improve this so watch out for updates on thus github!
 
+also yes eventually slash commands will work just testing some stuff
+
 # Enhanced Receipt Generator Bot
 
 A powerful Discord bot for generating customized receipts for various popular stores. Perfect for dropshipping or for educational purposes.
