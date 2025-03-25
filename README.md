@@ -10,6 +10,10 @@ and !help and others work but are useless for now. Thw receipts are not end resu
 
 also yes eventually slash commands will work just testing some stuff
 
+# ALSO! READ BELOW
+
+If you want to use the bot for free I will be hosting this bot 24/7 in a server which i'll also add to this github somewhere.
+
 # Enhanced Receipt Generator Bot
 
 A powerful Discord bot for generating customized receipts for various popular stores. Perfect for dropshipping or for educational purposes.
