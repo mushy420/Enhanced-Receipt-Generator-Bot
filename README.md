@@ -1,14 +1,10 @@
 # HEADS UP
-This bot does function and is being worked on as you read this to this day. for now functional commands are
 
-!receipt store product price [quantity] [shipping] [payment]
+I am completely refactoring this TODAY!
 
-example usage below
+26/03/2025 
 
-!receipt amazon "Apple AirPods Pro" 249.99
-and !help and others work but are useless for now. Thw receipts are not end result and I will improve this so watch out for updates on thus github!
-
-also yes eventually slash commands will work just testing some stuff
+I will be pushing updates within the next few hours please do not fork or use the code until I have done extentive testing and have temoved this notice
 
 # ALSO! READ BELOW
 
