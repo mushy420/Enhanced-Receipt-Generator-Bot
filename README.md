@@ -4,7 +4,7 @@ I am completely refactoring this TODAY!
 
 26/03/2025 
 
-I will be pushing updates within the next few hours please do not fork or use the code until I have done extentive testing and have temoved this notice
+I will be pushing updates within the next few hours please do not fork or use the code until I have done extentive testing and have removed this notice
 
 # ALSO! READ BELOW
 
