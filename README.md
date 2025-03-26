@@ -1,5 +1,6 @@
 # HEADS UP
-
+NEW UPDATES WILL BE PUSHED INTO THE REPOSITORY BELOW IMCASE ANYONE WANTS THIS OLD ONE
+https://github.com/mushy420/NEW-Enhanced-Receipt-Generator-Bot-NEW
 I am completely refactoring this TODAY!
 
 26/03/2025 
