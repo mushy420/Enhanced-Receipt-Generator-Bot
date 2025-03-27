@@ -1,6 +1,6 @@
 # HEADS UP
 
-This has been pushed to a website cureently apple is the only good option
+This has been pushed to a website currently apple is the only good option
 
 https://instantreceipt.lovable.app
 
