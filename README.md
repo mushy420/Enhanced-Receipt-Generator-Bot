@@ -1,10 +1,8 @@
 # HEADS UP
 
-I think i'm going to make this a webiste now seeing what it involves this will be much better as a website so im sorry if you were waiting for any updates howevwe I will still share the website once I get round to it. Most likely will make the website tomorrow (03/28/2025) 
+This has been pushed to a website cureently apple is the only good option
 
-# ALSO! READ BELOW
-
-If you want to use the bot for free I will be hosting this bot 24/7 in a server which i'll also add to this github somewhere.
+https://instantreceipt.lovable.app
 
 # Enhanced Receipt Generator Bot
 
@@ -62,6 +60,8 @@ This project is for educational purposes only.
 
 ## Disclaimer
 
-This bot is intended for educational purposes only. The generated receipts should not be used for fraudulent activities. The developer is not responsible for any misuse of this tool.
+This bot is intended for educational purposes only. The generated receipts should not be used for fraudulent activities. The developer is not responsible for any misuse of this tool. 
+
+I will only be updating the website and this github repository has been discontinued. Please visit the website for free usage of this.
 
 Copyright 2025 CoinKong
