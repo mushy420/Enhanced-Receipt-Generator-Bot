@@ -1,11 +1,6 @@
 # HEADS UP
-NEW UPDATES WILL BE PUSHED INTO THE REPOSITORY BELOW IMCASE ANYONE WANTS THIS OLD ONE
-https://github.com/mushy420/NEW-Enhanced-Receipt-Generator-Bot-NEW (private while I make and test this will be public VERY soon)
-I am completely refactoring this TODAY!
 
-26/03/2025 
-
-I will be pushing updates within the next few hours please do not fork or use the code until I have done extentive testing and have removed this notice
+I think i'm going to make this a webiste now seeing what it involves this will be much better as a website so im sorry if you were waiting for any updates howevwe I will still share the website once I get round to it. Most likely will make the website tomorrow (03/28/2025) 
 
 # ALSO! READ BELOW
 
